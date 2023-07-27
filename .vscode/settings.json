@@ -54,5 +54,19 @@
   "C_Cpp_Runner.useUndefinedSanitizer": false,
   "C_Cpp_Runner.useLeakSanitizer": false,
   "C_Cpp_Runner.showCompilationTime": false,
-  "C_Cpp_Runner.useLinkTimeOptimization": false
+  "C_Cpp_Runner.useLinkTimeOptimization": false,
+  "cmake.configureOnOpen": true,
+
+  
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/**": true,
+    "**/bower_components/**": true,
+    "**/*.o": true,
+    "**/*.out": true,
+    "**/*.exe": true,
+    "**/*.dll": true
+    }
+  
 }

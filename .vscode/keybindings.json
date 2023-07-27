@@ -1,0 +1,7 @@
+[
+    {
+      "key": "ctrl+shift+B",
+      "command": "workbench.action.tasks.runTask",
+      "args": "Build and Push"
+    }
+  ]
